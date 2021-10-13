@@ -1,4 +1,4 @@
-public class App {
+public class NganHang {
   public static void main(String[] args) {
       int accout_number = 12345;
       int accout_balance = 50;

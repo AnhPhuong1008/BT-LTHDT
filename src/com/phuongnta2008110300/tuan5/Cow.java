@@ -1,4 +1,4 @@
-package com.phuongnta2008110300.BTTuan5;
+package com.phuongnta2008110300.tuan5;
 
 import java.util.Scanner;
 public class Cow {

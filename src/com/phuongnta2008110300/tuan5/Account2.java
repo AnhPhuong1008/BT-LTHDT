@@ -1,4 +1,4 @@
-package com.phuongnta2008110300.BTTuan5;
+package com.phuongnta2008110300.tuan5;
 
 public class Account2 {
     String accout_name;
@@ -6,9 +6,9 @@ public class Account2 {
     int accout_balance ;
 
 
-    Account2(String a,int b,int c)
+    Account2(String i,int b,int c)
     { 
-        accout_name     = a;
+        accout_name     = i;
         accout_number   = b;
         accout_balance  = c;
     }

@@ -1,4 +1,4 @@
-package com.phuongnta2008110300.BTTuan4;
+package com.phuongnta2008110300.tuan4;
 
 public class Account {
     int accout_number ;

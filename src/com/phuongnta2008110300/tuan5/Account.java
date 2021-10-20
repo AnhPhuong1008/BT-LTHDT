@@ -1,28 +1,20 @@
 package com.phuongnta2008110300.tuan5;
 
 public class Account {
-    String name,address,position,birthday;
-    double salary;
+    String name;
+    double stk,sodu;
     Account(String a){
         name = a;
     }
-    void ImportAddress(String text){
-        address = text;
+    void Stk(Double a){
+        stk = a;
     }
-    void ImportSalary(int amount){
-        salary = amount;
-    }
-    void ImportPosition(String text){
-        position = text;
-    }
-    void ImportBirthday(String text){
-        birthday = text;
+    void Sodu(Double a){
+        sodu = a;
     }
     void showData(){
         System.out.println("Tên: "+name);
-        System.out.println("Lương: "+salary);
-        System.out.println("Địa chỉ: "+address);
-        System.out.println("Bộ Phận: "+position);
-        System.out.println("Ngày sinh: "+birthday);
+        System.out.println("Số tài khoản: "+stk);
+        System.out.println("Số dư tài khoản: "+sodu);
     }
 }

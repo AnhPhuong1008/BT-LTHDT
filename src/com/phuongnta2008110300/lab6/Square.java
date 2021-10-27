@@ -1,6 +1,6 @@
-package com.phuongnta2008110300.tuan6;
+package com.phuongnta2008110300.lab6;
 
-public class Triangle {
+public class Square {
     //attribute
     boolean Click;
     float size;

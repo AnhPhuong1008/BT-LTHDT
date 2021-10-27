@@ -1,4 +1,4 @@
-package com.phuongnta2008110300.tuan4;
+package com.phuongnta2008110300.lab4;
 
 import java.util.Scanner;
 

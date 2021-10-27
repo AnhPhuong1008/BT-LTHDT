@@ -1,4 +1,4 @@
-package com.phuongnta2008110300.tuan4;
+package com.phuongnta2008110300.lab4;
 
 public class MainProject {
     public static void main(String[] args) {

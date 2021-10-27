@@ -1,4 +1,4 @@
-package com.phuongnta2008110300.tuan5;
+package com.phuongnta2008110300.lab5;
 
 public class NhanVien {
     String name,address,position,birthday;

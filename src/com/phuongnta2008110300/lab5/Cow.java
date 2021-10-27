@@ -1,14 +1,14 @@
-package com.phuongnta2008110300.tuan5;
+package com.phuongnta2008110300.lab5;
 
 public class Cow {
     double weight;
     Cow(){
 
     }
-    void addWeight(){       
-        weight = in.nextFloat();
+    void addWeight(double a){       
+        weight = a;
     }
-    void ShowData(){ 
+    void showData(){ 
         System.out.println("Tên khách hàng: " +weight);
     }
 }

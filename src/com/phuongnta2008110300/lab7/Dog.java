@@ -17,14 +17,15 @@ public class Dog {
     void ngoi(){
         System.out.println("Bẹch...");
     }
-    public void setSize(int s){
-        if(s<=0)
+    public void setSize(int s, int p){
+        if(s<=0&&p<=0)
         {
             System.out.println("không hợp lệ !");
         }
         else
         {
             size = s;
+            System.out.println("dung vay:!" + size);
         }
     }
     public int getSize(){

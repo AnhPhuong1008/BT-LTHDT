@@ -9,6 +9,6 @@ public class Cow {
         weight = a;
     }
     void showData(){ 
-        System.out.println("Tên khách hàng: " +weight);
+        System.out.println("cân nặng: " +weight);
     }
 }

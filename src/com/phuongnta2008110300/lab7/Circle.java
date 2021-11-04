@@ -2,8 +2,8 @@ package com.phuongnta2008110300.lab7;
 
 public class Circle {
     String amThanh;
-    Circle(){
-
+    Circle(String a){
+        amThanh = a;
     }
     void xoay360(){
         System.out.println("Xoay 360 độ");

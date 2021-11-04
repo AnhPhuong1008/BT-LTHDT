@@ -1,4 +1,4 @@
-package com.phuongnta2008110300.lab1;
+package com.phuongnta2008110300.Lab1;
 
 import java.util.Scanner;
 public class Bai4 {

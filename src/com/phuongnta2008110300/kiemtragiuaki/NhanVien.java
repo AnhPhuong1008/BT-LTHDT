@@ -10,7 +10,7 @@ public class NhanVien extends Nguoi{
         this.heSoLuong = heSoLuong;
     }
     public String toString() {
-        return super.toString()+" "+tinhLuong()+ " VND";
+        return super.toString()+" "+tinhLuong();
     }
 
 }
